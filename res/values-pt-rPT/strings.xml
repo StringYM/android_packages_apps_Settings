@@ -22,7 +22,7 @@
     <string name="allow" msgid="3349662621170855910">"Permitir"</string>
     <string name="deny" msgid="6947806159746484865">"Recusar"</string>
     <string name="dlg_close" msgid="7471087791340790015">"Fechar"</string>
-    <string name="dlg_switch" msgid="6243971420240639064">"Alternar"</string>
+    <string name="dlg_switch" msgid="6243971420240639064">"Trocar"</string>
     <string name="device_info_default" msgid="7847265875578739287">"Desconhecido"</string>
     <plurals name="show_dev_countdown" formatted="false" msgid="7201398282729229649">
       <item quantity="other">Está agora a <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> passos de se tornar um programador.</item>
@@ -41,7 +41,7 @@
     <string name="volte_provisioned_switch_string" msgid="7979882929810283786">"VoLTE fornecido"</string>
     <string name="vt_provisioned_switch_string" msgid="7876998291744854759">"Videochamadas fornecidas"</string>
     <string name="wfc_provisioned_switch_string" msgid="3985406545172898078">"Chamadas Wi-Fi fornecidas"</string>
-    <string name="radio_info_radio_power" msgid="1208229437948820417">"Potência do rádio celular"</string>
+    <string name="radio_info_radio_power" msgid="1208229437948820417">"Potência do rádio"</string>
     <string name="radioInfo_menu_viewADN" msgid="7069468158519465139">"Ver livro de endereços do SIM"</string>
     <string name="radioInfo_menu_viewFDN" msgid="7934301566925610318">"Ver números de marcação fixos"</string>
     <string name="radioInfo_menu_viewSDN" msgid="7130280686244955669">"Ver números de marcação de serviços"</string>
@@ -305,7 +305,7 @@
     <string name="date_time_set_timezone" msgid="5045627174274377814">"Seleccionar fuso horário"</string>
     <string name="date_time_set_date_title" msgid="6928286765325608604">"Data"</string>
     <string name="date_time_set_date" msgid="7021491668550232105">"Definir data"</string>
-    <string name="zone_list_menu_sort_alphabetically" msgid="5683377702671088588">"Ordenar alfabeticamente"</string>
+    <string name="zone_list_menu_sort_alphabetically" msgid="5683377702671088588">"Ordenar por ordem alfabética"</string>
     <string name="zone_list_menu_sort_by_timezone" msgid="2720190443744884114">"Ordenar por fuso horário"</string>
     <string name="date_picker_title" msgid="1338210036394128512">"Data"</string>
     <string name="time_picker_title" msgid="483460752287255019">"Hora"</string>
