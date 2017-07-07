@@ -46,7 +46,7 @@
     <item msgid="412343871668955639">"2 minutos"</item>
     <item msgid="5076853889688991690">"5 minutos"</item>
     <item msgid="1903860996174927898">"10 minutos"</item>
-    <item msgid="6415509612413178727">"30 minutos"</item>
+   <item msgid="6415509612413178727">"30 minutos"</item>
   </string-array>
   <string-array name="lock_after_timeout_entries">
     <item msgid="8929270399652145290">"De imediato"</item>
@@ -60,14 +60,15 @@
     <item msgid="4322676235684793329">"30 minutos"</item>
   </string-array>
   <string-array name="entries_font_size">
-    <item msgid="8166647333858618801">"Pequeno"</item>
-    <item msgid="6986443533756848935">"Predefinição"</item>
+    <item msgid="8166647333858618801">"Pequena"</item>
+    <item msgid="6986443533756848935">"Média"</item>
     <item msgid="38373998008112077">"Grande"</item>
-    <item msgid="7635254317531872272">"O maior"</item>
+    <item msgid="7635254317531872272">"Enorme"</item>
+   
   </string-array>
   <string-array name="wifi_status">
     <item msgid="1922181315419294640"></item>
-    <item msgid="8934131797783724664">"A procurar..."</item>
+    <item msgid="8934131797783724664">"A pesquisar..."</item>
     <item msgid="8513729475867537913">"A ligar..."</item>
     <item msgid="515055375277271756">"A autenticar..."</item>
     <item msgid="1943354004029184381">"A obter endereço IP..."</item>
@@ -77,13 +78,13 @@
     <item msgid="1634960474403853625">"Desligado"</item>
     <item msgid="746097431216080650">"Sem sucesso"</item>
     <item msgid="6367044185730295334">"Bloqueado"</item>
-    <item msgid="503942654197908005">"A evitar temporariamente uma ligação fraca"</item>
+    <item msgid="503942654197908005">"Evitar temporariamente uma ligação fraca"</item>
   </string-array>
   <string-array name="wifi_status_with_ssid">
     <item msgid="7714855332363650812"></item>
-    <item msgid="8878186979715711006">"A procurar..."</item>
+    <item msgid="8878186979715711006">"A pesquisar..."</item>
     <item msgid="355508996603873860">"A ligar a <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
-    <item msgid="554971459996405634">"A autenticar com <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
+    <item msgid="554971459996405634">"A autenticar <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
     <item msgid="7928343808033020343">"A obter endereço IP de <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
     <item msgid="8937994881315223448">"Ligado a <xliff:g id="NETWORK_NAME">%1$s</xliff:g>"</item>
     <item msgid="1330262655415760617">"Suspenso"</item>
@@ -91,7 +92,7 @@
     <item msgid="197508606402264311">"Desligado"</item>
     <item msgid="8578370891960825148">"Sem sucesso"</item>
     <item msgid="5660739516542454527">"Bloqueado"</item>
-    <item msgid="1805837518286731242">"A evitar temporariamente uma ligação fraca"</item>
+    <item msgid="1805837518286731242">"Evitar temporariamente uma ligação fraca"</item>
   </string-array>
     <!-- no translation found for wifi_security:0 (8491993170197127709) -->
     <!-- no translation found for wifi_security:1 (6524315248437318854) -->
@@ -424,7 +425,7 @@
   </string-array>
   <string-array name="vpn_states">
     <item msgid="8621078286418985762">"Desligada"</item>
-    <item msgid="6692305604213080515">"A inicializar..."</item>
+    <item msgid="6692305604213080515">"A iniciar..."</item>
     <item msgid="8001704909356800092">"A ligar..."</item>
     <item msgid="4039737283841672166">"Ligada"</item>
     <item msgid="4042143101664725090">"Tempo limite"</item>
